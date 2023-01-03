@@ -1,0 +1,3 @@
+/home/jerry/CppWebserver/CMakeFiles/server.dir
+/home/jerry/CppWebserver/CMakeFiles/edit_cache.dir
+/home/jerry/CppWebserver/CMakeFiles/rebuild_cache.dir
